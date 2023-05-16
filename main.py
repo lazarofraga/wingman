@@ -1,5 +1,5 @@
 """
-Main module for the side-gryper
+Main module for wingman vuln scanning tool
 """
 import argparse
 
