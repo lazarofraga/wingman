@@ -1,4 +1,4 @@
-# side-gryper
+# wingman
 
 ## Summary
 
